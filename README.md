@@ -1,2 +1,1 @@
--  Deploying spaghetti code 
--  Let's Connect: [E-Mail](mailto:jatinnirwan572@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/jatin-nirwan/)
+# deploying spaghetti code 
