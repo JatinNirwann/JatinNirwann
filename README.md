@@ -1,3 +1,2 @@
-- 👋 Hello! I'm Jatin Nirwan
-- 🌱 Always Learning: Constantly exploring new technologies and honing my skills
-- 💬 Let's Connect: [E-Mail](mailto:jatinnirwan572@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/jatin-nirwan/)
+-  Deploying spaghetti code 
+-  Let's Connect: [E-Mail](mailto:jatinnirwan572@protonmail.com) | [LinkedIn](https://www.linkedin.com/in/jatin-nirwan/)
