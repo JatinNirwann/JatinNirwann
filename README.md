@@ -4,4 +4,4 @@ Hi there! I'm Jatin Nirwann, a student developer who enjoys building cool stuff 
 
 I avoid CSS like the plague.
 
-### [Discord](https://discord.com/users/1137059152909312030)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1137059152909312030)
